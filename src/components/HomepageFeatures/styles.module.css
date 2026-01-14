@@ -1,0 +1,71 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.introSection {
+  margin-bottom: 3rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.introText {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--ifm-color-text);
+}
+
+.generalObjective {
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background-color: var(--aide-background);
+  border-radius: 8px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.generalObjective h3 {
+  color: var(--aide-normal-blue);
+  margin-bottom: 1rem;
+}
+
+.generalObjective p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.feature {
+  margin-bottom: 2rem;
+}
+
+.featureIcon {
+  font-size: 4rem;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.feature h3 {
+  color: var(--aide-dark-blue);
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.feature p {
+  text-align: justify;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+@media screen and (max-width: 996px) {
+  .feature {
+    margin-bottom: 3rem;
+  }
+
+  .featureIcon {
+    font-size: 3rem;
+  }
+}

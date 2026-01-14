@@ -1,0 +1,104 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Import Open Sans font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* Safiro Font - For Headings */
+@font-face {
+  font-family: 'Safiro';
+  src: url('/fonts/safiro/safiro-medium-webfont.woff2') format('woff2'),
+    url('/fonts/safiro/safiro-medium-webfont.woff') format('woff'),
+    url('/fonts/safiro/safiro-medium-webfont.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* AIDE Color Palette */
+:root {
+  /* Base Colors */
+  --aide-text: #000000;
+  --aide-text-highlight: rgba(36, 58, 255, 0.7);
+  --aide-background: #ECF5FF;
+  --aide-white: #FFFFFF;
+
+  /* Semantic Colors */
+  --aide-red: #FF5151;
+  --aide-green: #4CD964;
+  --aide-yellow: #FFCC00;
+
+  /* AIDE Brand Blues */
+  --aide-dark-blue: #000746;
+  --aide-normal-blue: #5061FF;
+  --aide-light-blue: #7C89FF;
+
+  /* Component-specific colors */
+  --aide-navbar: rgba(219, 237, 248, 0.9);
+}
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Typography */
+  --ifm-font-family-base: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  --ifm-heading-font-family: 'Safiro', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  /* Colors */
+  --ifm-color-primary: #5061FF;
+  --ifm-color-primary-dark: #3d48e5;
+  --ifm-color-primary-darker: #3540d9;
+  --ifm-color-primary-darkest: #2730b0;
+  --ifm-color-primary-light: #7C89FF;
+  --ifm-color-primary-lighter: #8a97ff;
+  --ifm-color-primary-lightest: #b0bcff;
+  --ifm-color-text: #000000;
+  --ifm-background-color: #FFFFFF;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(36, 58, 255, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #7C89FF;
+  --ifm-color-primary-dark: #5061FF;
+  --ifm-color-primary-darker: #3d48e5;
+  --ifm-color-primary-darkest: #3540d9;
+  --ifm-color-primary-light: #8a97ff;
+  --ifm-color-primary-lighter: #b0bcff;
+  --ifm-color-primary-lightest: #d4dcff;
+  --ifm-color-text: #FFFFFF;
+  --ifm-background-color: #000746;
+  --docusaurus-highlighted-code-line-bg: rgba(36, 58, 255, 0.2);
+}
+
+/* Footer styling with AIDE brand colors */
+.footer {
+  background-color: #000746 !important;
+  color: #FFFFFF;
+}
+
+.footer__links {
+  margin-bottom: 2rem;
+}
+
+.footer__link-item {
+  color: rgba(255, 255, 255, 0.9);
+  transition: color 0.2s ease;
+}
+
+.footer__link-item:hover {
+  color: #7C89FF;
+}
+
+.footer__title {
+  color: #7C89FF;
+  font-weight: 600;
+}
+
+.footer__bottom {
+  border-top: 1px solid rgba(124, 137, 255, 0.3);
+  padding-top: 2rem;
+}

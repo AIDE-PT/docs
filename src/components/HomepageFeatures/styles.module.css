@@ -36,6 +36,13 @@
 .generalObjective p {
   font-size: 1.05rem;
   line-height: 1.7;
+  color: #000746;
+}
+
+/* Force dark text in Objetivo Geral even in dark mode */
+[data-theme='dark'] .generalObjective h3,
+[data-theme='dark'] .generalObjective p {
+  color: #000746 !important;
 }
 
 .feature {

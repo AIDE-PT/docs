@@ -70,8 +70,18 @@
   --ifm-color-primary-lighter: #b0bcff;
   --ifm-color-primary-lightest: #d4dcff;
   --ifm-color-text: #FFFFFF;
-  --ifm-background-color: #000746;
-  --docusaurus-highlighted-code-line-bg: rgba(36, 58, 255, 0.2);
+  --ifm-background-color: #0a0e4a;
+  --ifm-background-surface-color: #131856;
+  --docusaurus-highlighted-code-line-bg: rgba(124, 137, 255, 0.15);
+}
+
+/* Improve link visibility in dark mode */
+[data-theme='dark'] a {
+  color: #8a97ff;
+}
+
+[data-theme='dark'] a:hover {
+  color: #b0bcff;
 }
 
 /* Footer styling with AIDE brand colors */

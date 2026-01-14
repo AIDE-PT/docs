@@ -83,9 +83,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentação',
         },
         {
           href: 'https://github.com/AIDE-PT/docs',
@@ -101,8 +101,8 @@ const config: Config = {
           title: 'Documentação',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Introdução',
+              to: '/docs/introducao',
             },
           ],
         },

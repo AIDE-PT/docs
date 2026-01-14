@@ -14,6 +14,34 @@
   background-repeat: no-repeat;
 }
 
+/* Add overlay for better text visibility */
+.heroBanner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('/img/bg_white.jpg');
+  z-index: 0;
+}
+
+.heroBanner>div {
+  position: relative;
+  z-index: 1;
+}
+
+/* Ensure proper text color contrast */
+.heroBanner .hero__title {
+  color: #000746;
+  font-weight: 700;
+}
+
+.heroBanner .hero__subtitle {
+  color: #000746;
+  font-weight: 500;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
@@ -24,4 +52,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+}
+
+/* Improve button visibility */
+.buttons .button {
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0, 7, 70, 0.15);
+  transition: all 0.3s ease;
+}
+
+.buttons .button:hover {
+  box-shadow: 0 4px 12px rgba(0, 7, 70, 0.25);
+  transform: translateY(-2px);
 }

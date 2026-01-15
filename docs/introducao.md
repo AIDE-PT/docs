@@ -15,32 +15,32 @@ A AIDE é desenvolvida por uma equipa dedicada e apaixonada por melhorar a vida 
 <div style={{display: 'flex', flexWrap: 'wrap', gap: '2rem', justifyContent: 'center', marginTop: '2rem'}}>
   <div style={{textAlign: 'center', flex: '1 1 200px', maxWidth: '250px'}}>
     <img src="/img/team/daniel-madureira.jpg" alt="Daniel Madureira" style={{borderRadius: '50%', width: '150px', height: '150px', objectFit: 'cover', marginBottom: '1rem', border: '3px solid #5061FF'}} />
-    <h4 style={{margin: '0.5rem 0', color: '#000746'}}>Daniel Madureira</h4>
+    <h4 style={{margin: '0.5rem 0'}}>Daniel Madureira</h4>
   </div>
   
   <div style={{textAlign: 'center', flex: '1 1 200px', maxWidth: '250px'}}>
     <img src="/img/team/diogo-mota.jpg" alt="Diogo Mota" style={{borderRadius: '50%', width: '150px', height: '150px', objectFit: 'cover', marginBottom: '1rem', border: '3px solid #5061FF'}} />
-    <h4 style={{margin: '0.5rem 0', color: '#000746'}}>Diogo Mota</h4>
+    <h4 style={{margin: '0.5rem 0'}}>Diogo Mota</h4>
   </div>
   
   <div style={{textAlign: 'center', flex: '1 1 200px', maxWidth: '250px'}}>
     <img src="/img/team/francisco-oliveira.jpg" alt="Francisco Oliveira" style={{borderRadius: '50%', width: '150px', height: '150px', objectFit: 'cover', marginBottom: '1rem', border: '3px solid #5061FF'}} />
-    <h4 style={{margin: '0.5rem 0', color: '#000746'}}>Francisco Oliveira</h4>
+    <h4 style={{margin: '0.5rem 0'}}>Francisco Oliveira</h4>
   </div>
   
   <div style={{textAlign: 'center', flex: '1 1 200px', maxWidth: '250px'}}>
     <img src="/img/team/henrique-policarpo.jpeg" alt="Henrique Policarpo" style={{borderRadius: '50%', width: '150px', height: '150px', objectFit: 'cover', marginBottom: '1rem', border: '3px solid #5061FF'}} />
-    <h4 style={{margin: '0.5rem 0', color: '#000746'}}>Henrique Policarpo</h4>
+    <h4 style={{margin: '0.5rem 0'}}>Henrique Policarpo</h4>
   </div>
   
   <div style={{textAlign: 'center', flex: '1 1 200px', maxWidth: '250px'}}>
     <img src="/img/team/leonardo-fiuza.jpg" alt="Leonardo Fiuza" style={{borderRadius: '50%', width: '150px', height: '150px', objectFit: 'cover', marginBottom: '1rem', border: '3px solid #5061FF'}} />
-    <h4 style={{margin: '0.5rem 0', color: '#000746'}}>Leonardo Fiuza</h4>
+    <h4 style={{margin: '0.5rem 0'}}>Leonardo Fiuza</h4>
   </div>
   
   <div style={{textAlign: 'center', flex: '1 1 200px', maxWidth: '250px'}}>
     <img src="/img/team/ricardo-araujo.jpg" alt="Ricardo Araújo" style={{borderRadius: '50%', width: '150px', height: '150px', objectFit: 'cover', marginBottom: '1rem', border: '3px solid #5061FF'}} />
-    <h4 style={{margin: '0.5rem 0', color: '#000746'}}>Ricardo Araújo</h4>
+    <h4 style={{margin: '0.5rem 0'}}>Ricardo Araújo</h4>
   </div>
 </div>
 

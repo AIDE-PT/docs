@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'AIDE',
-  tagline: 'The Future of Care is Connected.',
+  tagline: 'O futuro do cuidado é conectado.',
   favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AIDE-PT/docs/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AIDE-PT/docs/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -97,38 +97,18 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        
+        
         {
-          title: 'Documentação',
-          items: [
-            {
-              label: 'Introdução',
-              to: '/docs/introducao',
-            },
-          ],
-        },
-        {
-          title: 'Comunidade',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'Mais',
+          title: 'AIDE',
           items: [
             {
               label: 'Website',
               to: 'https://aide.pt',
+            },
+            {
+              label: 'Universidade de Aveiro',
+              to: 'https://ua.pt',
             },
           ],
         },

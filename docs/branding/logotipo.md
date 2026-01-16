@@ -95,10 +95,10 @@ Para garantir legibilidade, o logótipo não deve ser reproduzido abaixo dos seg
 ## Uso Incorreto
 
 :::caution O que NÃO fazer
-- ❌ Distorcer ou esticar o logótipo
-- ❌ Alterar as cores do logótipo
-- ❌ Adicionar sombras, bordas ou efeitos
-- ❌ Colocar sobre fundos com pouco contraste
-- ❌ Rodar o logótipo
-- ❌ Usar versões de baixa resolução
+- Distorcer ou esticar o logótipo
+- Alterar as cores do logótipo
+- Adicionar sombras, bordas ou efeitos
+- Colocar sobre fundos com pouco contraste
+- Rodar o logótipo
+- Usar versões de baixa resolução
 :::

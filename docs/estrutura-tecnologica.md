@@ -104,6 +104,9 @@ Git hooks automatizados para lint, formatação e verificação de tipos em pre-
 ### **Jest**
 Framework de testes com preset React Native, relatórios de cobertura e suporte TypeScript completo.
 
+### Package Audit
+Comando que executa a verificação e atualização de dependências, assim como a segurança dos pacotes.
+
 ---
 
 ## Build e Deploy

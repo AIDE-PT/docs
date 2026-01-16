@@ -8,33 +8,33 @@ Compreenda o seu papel na AIDE. A aplicação foi desenvolvida para dois tipos d
 
 ---
 
-## 👤 Aider (Cuidador Informal)
+## 👤 AIDER (Cuidador)
 
-### O que é um Aider?
+### O que é um AIDER?
 
-Um **Aider** é a pessoa responsável por cuidar de outra pessoa que necessita de apoio nas suas atividades quotidianas. 
+Um **AIDER** é a pessoa responsável por cuidar de outra pessoa que necessita de apoio nas suas atividades quotidianas. 
 
-Se é você quem acompanha, vigia e apoia alguém que precisa de cuidados — seja um familiar, amigo ou vizinho — então **você é um Aider**.
+Se é você quem acompanha, vigia e apoia alguém que precisa de cuidados, quer seja um familiar, amigo ou vizinho, então **você é um AIDER**.
 
 ---
 
-## 🏠 Cuidado (Pessoa Cuidada)
+## 🏠 Cuidado (Pessoa a ser cuidada)
 
 ### O que é um Cuidado?
 
-Um **Cuidado** é a pessoa que recebe apoio de um Aider nas suas atividades do dia a dia. 
+Um **Cuidado** é a pessoa que recebe apoio de um AIDER nas suas atividades do dia a dia. 
 
 Se alguém próximo de si o acompanha, vigia a sua saúde e segurança, ou se sente mais seguro sabendo que pode pedir ajuda rapidamente, então **você é um Cuidado**.
 
 ---
 
-## 🤝 Juntos, Aiders e Cuidados
+## 🤝 Juntos, AIDERs e Cuidados
 
-A AIDE é uma ponte entre quem cuida e quem é cuidado. **Não substitui o contacto humano nem o carinho da presença física — amplifica-os.**
+A AIDE é uma ponte entre quem cuida e quem é cuidado. **Não substitui o contacto humano nem o carinho da presença física, amplifica-os.**
 
 <div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1.5rem', margin: '2rem 0'}}>
   <div style={{padding: '1.5rem', backgroundColor: '#E8ECFF', borderRadius: '12px', borderLeft: '4px solid #122aff'}}>
-    <strong style={{color: '#000746', fontSize: '1.1rem'}}>Para o Aider</strong>
+    <strong style={{color: '#000746', fontSize: '1.1rem'}}>Para o AIDER</strong>
     <p style={{margin: '0.75rem 0 0', color: '#333'}}>Recupere a sua liberdade sabendo que será sempre alertado quando necessário. Viva o seu dia a dia com menos ansiedade e mais confiança.</p>
   </div>
   <div style={{padding: '1.5rem', backgroundColor: '#E8ECFF', borderRadius: '12px', borderLeft: '4px solid #122aff'}}>

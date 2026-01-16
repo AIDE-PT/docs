@@ -22,7 +22,7 @@ A paleta de cores da AIDE foi cuidadosamente selecionada para transmitir os valo
 
 ### Significado
 
-O azul foi selecionado como cor primária porque reflete os valores centrais da marca: **paz**, **segurança** e **fiabilidade**. Transmite uma forte sensação de calma e estabilidade, promovendo confiança e tranquilidade enquanto incentiva a clareza e o equilíbrio emocional — qualidades essenciais para criar experiências confortáveis e seguras.
+O azul foi selecionado como cor primária porque reflete os valores centrais da marca: **paz**, **segurança** e **fiabilidade**. Transmite uma forte sensação de calma e estabilidade, promovendo confiança e tranquilidade enquanto incentiva a clareza e o equilíbrio emocional, qualidades essenciais para criar experiências confortáveis e seguras.
 
 ---
 

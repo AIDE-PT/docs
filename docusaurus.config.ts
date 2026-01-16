@@ -81,15 +81,30 @@ const config: Config = {
         srcDark: 'img/aide_FULLwhite.svg',
       },
       items: [
+        
         {
-          type: 'docSidebar',
-          sidebarId: 'docSidebar',
+          to: '/docs/introducao',
+          label: 'Introdução',
           position: 'left',
-          label: 'Documentação',
+        },
+        {
+          to: '/docs/estrutura-tecnologica',
+          label: 'Estrutura Tecnológica',
+          position: 'left',
+        },
+        {
+          to: '/docs/category/identidade-visual',
+          label: 'Branding',
+          position: 'left',
+        },
+        {
+          to: '/docs/faq',
+          label: 'FAQ',
+          position: 'left',
         },
         {
           href: 'https://github.com/AIDE-PT/docs',
-          label: 'Contribuir para documentação',
+          label: 'Contribuir',
           position: 'right',
         },
       ],
@@ -97,8 +112,8 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        
-        
+
+
         {
           title: 'AIDE',
           items: [

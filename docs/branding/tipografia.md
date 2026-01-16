@@ -8,7 +8,7 @@ A tipografia da AIDE combina duas famílias de fontes complementares para criar 
 
 ---
 
-## Títulos — Safiro
+## Títulos - Safiro
 
 <div style={{margin: '2rem 0', padding: '2rem', backgroundColor: '#f8f9fa', borderRadius: '12px'}}>
   <div style={{fontFamily: 'Safiro, sans-serif', fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '1rem', color: '#000746'}}>Safiro</div>
@@ -38,7 +38,7 @@ A tipografia da AIDE combina duas famílias de fontes complementares para criar 
 
 ---
 
-## Corpo de Texto — Open Sans
+## Corpo de Texto - Open Sans
 
 <div style={{margin: '2rem 0', padding: '2rem', backgroundColor: '#f8f9fa', borderRadius: '12px'}}>
   <div style={{fontFamily: 'Open Sans, sans-serif', fontSize: '2rem', fontWeight: '400', marginBottom: '1rem', color: '#000746'}}>Open Sans</div>

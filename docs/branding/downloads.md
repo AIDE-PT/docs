@@ -97,7 +97,7 @@ Faça download dos assets oficiais da marca AIDE para utilização em projetos e
 O manual completo de identidade visual da AIDE está disponível em formato PDF.
 
 <div style={{padding: '2rem', backgroundColor: '#f8f9fa', borderRadius: '12px', textAlign: 'center', margin: '2rem 0', border: '1px solid #e9ecef'}}>
-  <div style={{fontSize: '3rem', marginBottom: '1rem'}}>📄</div>
+  <div style={{fontSize: '2rem', marginBottom: '1rem', color: '#122aff', fontWeight: 'bold'}}>PDF</div>
   <strong style={{fontSize: '1.1rem'}}>Manual de Identidade AIDE</strong>
   <p style={{fontSize: '0.9rem', color: '#666', margin: '0.5rem 0 1.5rem'}}>Guia completo com todas as diretrizes da marca</p>
   <a href="/branding/manual%20de%20identidade%20-%20aide.pdf" download style={{display: 'inline-block', padding: '0.75rem 1.5rem', backgroundColor: '#122aff', color: 'white', borderRadius: '8px', textDecoration: 'none', fontWeight: '500'}}>

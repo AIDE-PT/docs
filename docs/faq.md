@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Perguntas Frequentes
+# Perguntas Frequentes (FAQ)
 
 Respostas às dúvidas mais comuns sobre a utilização da AIDE.
 
@@ -76,20 +76,6 @@ Sim. Se aceder à AIDE em diferentes dispositivos (telemóvel, tablet), a config
 
 ---
 
-## Acessibilidade
-
-<details>
-<summary><strong>E se eu não souber usar tecnologia?</strong></summary>
-
-A AIDE foi desenvolvida pensando em si:
-
-- Se é um **Cuidado**, a aplicação foi desenhada para funcionar com mínima interação
-- Se é um **AIDER** mas tem dificuldades com tecnologia, oferecemos tutoriais em vídeo, suporte dedicado e uma interface intuitiva que qualquer pessoa pode aprender
-
-</details>
-
----
-
 :::info Não encontrou a sua pergunta?
-Entre em contacto com a nossa equipa através do email geral@aide.pt
+Entre em contacto com a nossa equipa através do email geral@aide.pt e iremos ajudar.
 :::

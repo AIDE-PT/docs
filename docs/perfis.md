@@ -8,7 +8,7 @@ Compreenda o seu papel na AIDE. A aplicação foi desenvolvida para dois tipos d
 
 ---
 
-## 👤 AIDER (Cuidador)
+## AIDER (Cuidador)
 
 ### O que é um AIDER?
 
@@ -18,7 +18,7 @@ Se é você quem acompanha, vigia e apoia alguém que precisa de cuidados, quer 
 
 ---
 
-## 🏠 Cuidado (Pessoa a ser cuidada)
+## Cuidado (Pessoa a ser cuidada)
 
 ### O que é um Cuidado?
 
@@ -28,7 +28,7 @@ Se alguém próximo de si o acompanha, vigia a sua saúde e segurança, ou se se
 
 ---
 
-## 🤝 Juntos, AIDERs e Cuidados
+## Juntos, AIDERs e Cuidados
 
 A AIDE é uma ponte entre quem cuida e quem é cuidado. **Não substitui o contacto humano nem o carinho da presença física, amplifica-os.**
 
